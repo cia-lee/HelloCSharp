@@ -1,0 +1,14 @@
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\obj\Debug\net9.0\HelloTwist.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\obj\Debug\net9.0\HelloTwist.AssemblyInfoInputs.cache
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\obj\Debug\net9.0\HelloTwist.AssemblyInfo.cs
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\obj\Debug\net9.0\HelloTwist.csproj.CoreCompileInputs.cache
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\bin\Debug\net9.0\HelloTwist.exe
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\bin\Debug\net9.0\HelloTwist.deps.json
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\bin\Debug\net9.0\HelloTwist.runtimeconfig.json
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\bin\Debug\net9.0\HelloTwist.dll
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\bin\Debug\net9.0\HelloTwist.pdb
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\obj\Debug\net9.0\HelloTwist.dll
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\obj\Debug\net9.0\refint\HelloTwist.dll
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\obj\Debug\net9.0\HelloTwist.pdb
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\obj\Debug\net9.0\HelloTwist.genruntimeconfig.cache
+c:\Users\ciann\Downloads\DAT 205 - Creative Coding II\HelloTwist\obj\Debug\net9.0\ref\HelloTwist.dll
