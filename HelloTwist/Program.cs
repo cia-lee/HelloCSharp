@@ -45,13 +45,15 @@ class Program
             Console.WriteLine("Wow. That's quite a name for a hobby.");
         }
         else if (hobby.Length >= 50){
-            Console.WriteLine("Wow, okay. That's a lot of detail for a hobby. Sure your real hobby isn't writing?");
+            Console.WriteLine("Wow, okay. That's a lot of detail for a hobby. Sure your real hobby isn't writing? There's nothing wrong with being a writer, I'm just saying.");
         }
         else{
-            Console.WriteLine("Hmm. Seems about average.");
+            Console.WriteLine("Hmm. Seems about average, for a hobby that is.");
         }
 
         //last goodbye
         Console.WriteLine("Welp, seems the conversation has run dry. Goodbye for now!");
+        Console.WriteLine("This Visual Studio Code fork edits have been proudly sponsored by Cadmen Bound");
     }
 }
+
